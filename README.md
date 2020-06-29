@@ -1,1 +1,1 @@
-# ANN-Digit-Recognizer-Dataset-with-KERAS
+It is a Deep learning project as digit recognizer with ANN
